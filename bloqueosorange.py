@@ -3510,7 +3510,7 @@ RANGOS_CIDR = [
 "198.41.255.0/24"
 ]
 
-ARCHIVO_SALIDA = "bloqueos_digi.txt"
+ARCHIVO_SALIDA = "bloqueos.txt"
 bloqueadas = 0
 MAX_IPS_POR_RANGO = 256  # Límite de IPs a analizar por rango CIDR
 MAX_TRABAJADORES = 50  # Número máximo de hilos para análisis paralelo
