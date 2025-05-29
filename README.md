@@ -6,4 +6,4 @@ Script
 
 Dependiendo de su sistema operativo debe ejecutar el script de una manera o de otra, los resultados se guardan en "resultados.txt" en el mismo directorio donde se encuentra el script
 
-Versión 0.0.1
+Versión 0.0.2
