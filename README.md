@@ -1,4 +1,5 @@
-Script para comprobar (usando Python) las direcciones IP bloqueadas por diferentes operadores españoles
+Script para comprobar (usando Python) las direcciones IP bloqueadas por diferentes operadores españoles.
+No necesita root
 
 Script
 1. Instalar Python (en su sistema operativo o Termux Android)
