@@ -4,7 +4,6 @@ import ipaddress
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 # IPs prioritarias
-# IPs prioritarias
 IPS_PRIORITARIAS = [
 "1.1.1.1", "45.11.57.20", "45.11.57.109", "45.11.57.123", "45.11.57.156", "45.11.57.233", "45.12.1.14",
 "45.12.3.26", "45.12.3.137", "45.12.3.209", "45.148.10.23", "45.148.10.119", "47.246.45.145", "47.246.45.211",
