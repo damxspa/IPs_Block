@@ -12,3 +12,5 @@ Puede haber problemas de compatibilidad con Windows (sobre todo en las peticione
 Añadido nuevos bloques de IP gracias a https://github.com/socram8888/laliga-digi-block-check
 
 Versión 0.0.3
+
+Solo se ha probado correctamente el script para DIGI, no he probado personalmente las versiones para Movistar, Orange, Vodafone ni XtraTelecom
