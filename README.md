@@ -5,7 +5,9 @@ Script
 1. Instalar Python (en su sistema operativo o Termux Android)
 2. pip install requests datetime ipaddress
 
-Dependiendo de su sistema operativo debe ejecutar el script de una manera o de otra, los resultados se guardan en "resultados.txt" en el mismo directorio donde se encuentra el script
+Dependiendo de su sistema operativo debe ejecutar el script de una manera o de otra, los resultados se guardan en "resultados.txt" en el mismo directorio donde se encuentra el script.
+
+Puede haber problemas de compatibilidad con Windows (sobre todo en las peticiones), puede solucionarlo usando una maquina virtual que tenga Linux (como Ubuntu o Fedora...)
 
 Añadido nuevos bloques de IP gracias a https://github.com/socram8888/laliga-digi-block-check
 
